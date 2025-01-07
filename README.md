@@ -23,21 +23,6 @@ This project involves developing a software system using a simple graphics libra
 - Interactive graphics rendered on the Windows console.
 - User-friendly interface to ensure smooth interaction.
 
-## Important Notes
-- **Code Quality**: The source code includes meaningful class and member names, as well as detailed comments for better readability.
-- **Plagiarism**: This project must be an original work. Any instance of plagiarism will lead to:
-  - An **F grade** in this course.
-  - Referral to the **Disciplinary Committee** with the possibility of further penalties (up to 5 F's in all registered courses).
-
-## Collaboration
-- This project can be done in groups of up to two members. The following information must be included:
-  - **Name and Roll Number** of all group members.
-  - Ensure proper division of tasks and contribution by each member.
-
-## Group Members
-- **Member 1**: Name (Roll Number)
-- **Member 2**: Name (Roll Number)
-
 ---
 
 ## Additional Requirements
